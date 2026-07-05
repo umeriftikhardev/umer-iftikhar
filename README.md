@@ -6,7 +6,7 @@
 - 🤖 Built an AI medical assistant app with GPT-4o, Whisper & Vision APIs (React Native)
 - 📚 Currently learning: ML fundamentals, Python for data science
 - 💼 Open to Werkstudent roles (20 hrs/week) in Germany
-- 📫 Reach me: [umeriftikhar.dev@gmail.com] | [LinkedIn](https://linkedin.com/in/umer-iftikhar-dev)
+- 📫 Reach me: umeriftikhar.dev@gmail.com | [LinkedIn](https://linkedin.com/in/umer-iftikhar-dev)
 
 ### Tech Stack
 `PHP` `Laravel` `Python` `MySQL` `React` `React Native` `Next.js` `Azure` `Git` `CI/CD`
